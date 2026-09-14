@@ -1,0 +1,20 @@
+# IDE
+.idea/
+.vscode/
+
+# Claude Code 本地个人配置
+.claude/settings.local.json
+
+# Jupyter 自动保存检查点
+.ipynb_checkpoints/
+
+# TensorBoard / 训练日志
+logs/
+*.trace
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
